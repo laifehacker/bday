@@ -1,3 +1,5 @@
+# Copy paste the below code in python
+# Don't read it beforehand for more fun
 
 def reveal_gift():
     print("🎉 Congratulations! 🎉")
